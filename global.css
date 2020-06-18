@@ -1,0 +1,39 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: none !important;
+}
+
+img {
+  width: 60%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.color-green {
+  color: #10cf10;
+}
+
+.color-blue {
+  color: #6f6fc5 !important;
+}
+
+.color-red {
+  color: #dd1e1e;
+}
+
+.label {
+  color: #dd1e1e;
+  text-align: right;
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.label-response {
+  color: #10cf10;
+}
+/*# sourceMappingURL=global.css.map */
