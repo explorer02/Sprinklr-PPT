@@ -8,10 +8,13 @@ h6 {
 }
 
 img {
-  width: 60%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+img.learn {
+  width: 70%;
 }
 
 .color-green {
@@ -35,5 +38,10 @@ img {
 
 .label-response {
   color: #10cf10;
+}
+
+.make-it-pop {
+  -webkit-filter: drop-shadow(0 0 10px purple);
+          filter: drop-shadow(0 0 10px purple);
 }
 /*# sourceMappingURL=global.css.map */

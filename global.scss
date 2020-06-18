@@ -12,10 +12,12 @@ h6 {
 }
 
 img {
-	width: 60%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	&.learn {
+		width: 70%;
+	}
 }
 .color-green {
 	color: $green;
