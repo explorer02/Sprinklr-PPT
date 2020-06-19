@@ -17,31 +17,36 @@ img.learn {
   width: 70%;
 }
 
-.color-green {
-  color: #10cf10;
-}
-
 .color-blue {
   color: #6f6fc5 !important;
 }
 
 .color-red {
-  color: #dd1e1e;
+  color: #dd1e1e !important;
+}
+
+.color-green {
+  color: #10cf10 !important;
 }
 
 .label {
-  color: #dd1e1e;
+  color: #dd1e1e !important;
   text-align: right;
   display: inline-block;
   margin-right: 2rem;
 }
 
 .label-response {
-  color: #10cf10;
+  color: #10cf10 !important;
 }
 
-.make-it-pop {
-  -webkit-filter: drop-shadow(0 0 10px purple);
-          filter: drop-shadow(0 0 10px purple);
+.mini-image {
+  width: 12rem;
+  height: 6rem;
+  margin-right: 2rem !important;
+}
+
+.mini-image.large-width {
+  width: 15rem;
 }
 /*# sourceMappingURL=global.css.map */
