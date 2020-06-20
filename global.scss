@@ -30,6 +30,9 @@ img {
 .color-green {
 	color: $green;
 }
+.color-yellow {
+	color: yellow !important;
+}
 
 .label {
 	color: $red;
@@ -46,5 +49,11 @@ img {
 	margin-right: 2rem !important;
 	&.large-width {
 		width: 15rem;
+	}
+}
+
+#table-timeline {
+	td {
+		border-bottom: 1px solid wheat;
 	}
 }

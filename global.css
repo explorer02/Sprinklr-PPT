@@ -29,6 +29,10 @@ img.learn {
   color: #10cf10 !important;
 }
 
+.color-yellow {
+  color: yellow !important;
+}
+
 .label {
   color: #dd1e1e !important;
   text-align: right;
@@ -48,5 +52,9 @@ img.learn {
 
 .mini-image.large-width {
   width: 15rem;
+}
+
+#table-timeline td {
+  border-bottom: 1px solid wheat;
 }
 /*# sourceMappingURL=global.css.map */
