@@ -15,6 +15,7 @@ img {
 
 img.learn {
   width: 70%;
+  border-radius: 10px;
 }
 
 .color-blue {
@@ -47,11 +48,13 @@ img.learn {
 .mini-image {
   width: 12rem;
   height: 6rem;
+  border-radius: 5px;
   margin-right: 2rem !important;
 }
 
 .mini-image.large-width {
   width: 15rem;
+  border-radius: 8px;
 }
 
 #table-timeline td {
