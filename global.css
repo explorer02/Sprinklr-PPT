@@ -57,6 +57,14 @@ img.learn {
   border-radius: 8px;
 }
 
+#table-timeline tr > td:first-of-type {
+  color: #10cf10 !important;
+}
+
+#table-timeline tr > td:last-of-type {
+  color: yellow !important;
+}
+
 #table-timeline td {
   border-bottom: 1px solid wheat;
 }

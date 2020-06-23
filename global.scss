@@ -55,6 +55,12 @@ img {
 }
 
 #table-timeline {
+	tr > td:first-of-type {
+		color: $green;
+	}
+	tr > td:last-of-type {
+		color: yellow !important;
+	}
 	td {
 		border-bottom: 1px solid wheat;
 	}
