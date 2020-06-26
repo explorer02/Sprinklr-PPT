@@ -68,3 +68,7 @@ img {
 		border-bottom: 1px solid wheat;
 	}
 }
+
+#timeline-container::-webkit-scrollbar {
+	display: none;
+}

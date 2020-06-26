@@ -68,4 +68,8 @@ img.learn {
 #table-timeline td {
   border-bottom: 1px solid wheat;
 }
+
+#timeline-container::-webkit-scrollbar {
+  display: none;
+}
 /*# sourceMappingURL=global.css.map */
